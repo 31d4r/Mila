@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Mila Updates</title>
+        
+        <item>
+            <title>Version 1.0</title>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+                    <li>Record audio from any app on your Mac - Zoom, Teams, Slack, Google Meet, and more</li>
+                    <li>AI transcription powered by advanced on-device models for instant, private transcriptions</li>
+                    <li>Export to multiple formats - WAV, MP3, M4A, or FLAC</li>
+                    <li>Privacy-first design - all recordings stay local on your Mac by default</li>
+                    <li>Customizable workflow with hotkeys, audio source selection, and quality settings</li>
+                    <li>Chat with your recordings using AI to get summaries and find key moments</li>
+                </ul>
+            ]]></description>
+            
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            
+            <enclosure
+                url="https://github.com/31d4r/Mila/releases/download/1.0/Mila-1.0.zip"
+                type="application/octet-stream"
+                length="15000000"
+            />
+        </item>
+    
+    </channel>
+</rss>
