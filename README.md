@@ -71,11 +71,11 @@ Premium includes everything in the free plan, plus:
 
 **Volume Pricing:**
 
-- 1 seat: $9/month
-- 2 seats: $16/month ($8 per user)
-- 3 seats: $21/month ($7 per user)
-- 5 seats: $30/month ($6 per user)
-- 10 seats: $49/month ($4.90 per user)
+- 1 seat: $6/month
+- 2 seats: $10/month ($5 per user)
+- 3 seats: $14/month ($4.67 per user)
+- 5 seats: $20/month ($4 per user)
+- 10 seats: $32/month ($3.20 per user)
 
 Need more than 10 seats? Contact us for enterprise pricing.
 
